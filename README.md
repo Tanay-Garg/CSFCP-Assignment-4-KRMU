@@ -1,13 +1,12 @@
 # Calculator Project
 
-## 📌 Project Description
-This is a simple console-based calculator built using Python.  
-It supports addition, subtraction, multiplication, and division.  
+## Project Description
+This is a simple calculator for simple operations like addition, subtraction, multiplication and division built using Python.  
 The project was developed in **Visual Studio Code**, version controlled with **Git**, and hosted on **GitHub**.
 
 ---
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 1. Clone the repository:
    ```bash
