@@ -19,8 +19,8 @@ The project was developed in **Visual Studio Code**, version controlled with **G
 ![Screenshot2 of the git program](https://raw.githubusercontent.com/Tanay-Garg/CSFCP-Assignment-4-KRMU/refs/heads/main/images/Picture4.png)
 
 ## PROJECT FEATURES
--Addition, subtraction, multiplication, division
--Loop-based menu allowing multiple calculations
--Handles division by zero
--Handles invalid menu choices
--Clear and simple user interface
+- Addition, subtraction, multiplication, division
+- Loop-based menu allowing multiple calculations
+- Handles division by zero
+- Handles invalid menu choices
+- Clear and simple user interface
